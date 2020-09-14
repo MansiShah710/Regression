@@ -14,3 +14,11 @@ I start off first by considering only the effect of TV ads on sales. A single li
 Next, I built a multiple linear regression model considerung the effect of TV and radio ads on sales. This increased the R^2 to 0.89.
 
 Finally, I check the interaction between TV and radio and consider that in the model. This helps increase the R^2 to 0.97 and brings the RMSE to 0.7.
+
+## Logistic Regression
+
+### Dataset
+The dataset being used is the Breast cancer classification dataset.
+
+### Objective
+The objective is to classify if a breast cancer diagnosis is malign or benign.
