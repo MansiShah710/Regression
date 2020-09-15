@@ -22,3 +22,6 @@ The dataset being used is the Breast cancer classification dataset.
 
 ### Objective
 The objective is to classify if a breast cancer diagnosis is malign or benign.
+
+I started off first by logistic regression and then also built a classifier with LDA and another classifier with QDA.
+The performance of the model is evaluated using ROC curve and by finding Area Under the Curve (AUC).
